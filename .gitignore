@@ -1,0 +1,25 @@
+# maven projects
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.idea/
+.eclipse
+dependency-reduced-pom.xml
+
+# jupyter/pandas projects
+.cache/
+.config/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.ipynb_checkpoints/
+
+# extra files
+my_helper*
+out
+log
