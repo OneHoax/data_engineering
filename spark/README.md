@@ -7,7 +7,7 @@
 - [Improvements](#Improvements)
 
 ## Introduction
-The [Data Analytics with Pandas/Jupyter PoC project](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling)
+The [Data Analytics with Pandas/Jupyter PoC project](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling)
 was a success; it provided valuable customer insights that helped London Gift Shop
 (LGS) develop targeted marketing strategies and drive their revenue back up;
 therefore, LGS wanted to invest more money into applying the same data analysis 
@@ -20,23 +20,23 @@ I was tasked with:
 - Evaluating Spark using Zeppelin Notebook running on Hadoop
 - Evaluating Spark using Databricks running on Azure
 - Re-implementing the Data Analytics 
-[Jupyter Notebook](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb) using Azure
+[Jupyter Notebook](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb) using Azure
 Databricks
 
 For the Zeppelin/Hadoop evaluation, I reused the same Hadoop environment and 
-dataset from the [Hadoop project](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/hadoop) (a 3-node cluster on GCP Dataproc
+dataset from the [Hadoop project](https://github.com/OneHoax/data_engineering/tree/master/hadoop) (a 3-node cluster on GCP Dataproc
 and the 2016 World Development Indicators dataset, respectively); however, I used
 Spark SQL and DataFrames (Spark Structured APIs) on the Zeppelin notebook to analyze
 the data instead of HiveQL.
 For the Databricks/Azure analysis, I re-implemented the
-[Jupyter Notebook](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb) from the 
-[Data Analytics with Pandas/Jupyter PoC project](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling) using
+[Jupyter Notebook](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb) from the 
+[Data Analytics with Pandas/Jupyter PoC project](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling) using
 Azure Databricks, which is an Apache Spark-based analytics platform optimized for the
 Microsoft Azure cloud services.
 
 ## Spark on Zeppelin and Hadoop 
 I reused the same Hadoop environment and 
-dataset from the [Hadoop project](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/hadoop) (a 3-node cluster on GCP Dataproc
+dataset from the [Hadoop project](https://github.com/OneHoax/data_engineering/tree/master/hadoop) (a 3-node cluster on GCP Dataproc
 and the 2016 World Development Indicators dataset, respectively).
 The WDI dataset originally resides on GCP Storage; I loaded the data onto the Hadoop
 cluster and created a Hive table from it in PARQUET format for optimization purposes;
@@ -54,8 +54,8 @@ performance through data analytics operations on the WDI dataset.
 
 ## Azure Databricks 
 I re-implemented the
-[Jupyter Notebook](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb) from the 
-[Data Analytics with Pandas/Jupyter PoC project](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling) using
+[Jupyter Notebook](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb) from the 
+[Data Analytics with Pandas/Jupyter PoC project](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling) using
 Azure Databricks, which is an Apache Spark-based analytics platform optimized for the
 Microsoft Azure cloud services. The dataset was LGS transactional data from 2009-12 to
 2012-12; it was downloaded as a CSV file from a data warehouse (PostgreSQL instance)
@@ -68,7 +68,7 @@ uses a Hive Metastore with a Derby database to work with database objects/tables
 I then used SparkSQL and
 PySpark (Spark Structured APIs) to re-implement the same data analytics process that
 was applied on the 
-[Jupyter Notebook](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb);
+[Jupyter Notebook](https://github.com/OneHoax/data_engineering/tree/master/python_data_wrangling/retail_data_analytics_wrangling.ipynb);
 that is, I performed parallel data analysis on a cluster to answer several business
 questions, divide customers into segments, and identify important segments to help
 LGS develop targeted marketing strategies. 
