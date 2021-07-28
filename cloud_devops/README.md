@@ -4,7 +4,7 @@
 The Jarvis organization is moving from on-premise servers to the 
 Microsoft Azure cloud; this is a PoC to re-assure such a decision.
 The project uses Azure APIs to deploy the
-[SpringBoot App](https://github.com/jarviscanada/jarvis_data_eng_AndresOsorio/tree/master/springboot)
+[SpringBoot App](https://github.com/OneHoax/data_engineering/tree/master/springboot)
 to Kubernetes clusters managed by Azure. Migrating to the cloud has the following benefits:
 - Easy to scale out/up or in/down
 - High Availability
