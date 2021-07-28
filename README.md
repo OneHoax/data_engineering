@@ -67,7 +67,7 @@ Full Stack developer for a background screening application used for onboarding 
 
 **Data Engineer, Jarvis Consulting Group (Jun 2020 - Jan 2021):**
 
-Worked in a small scrum team developing Data Engineering projects. Successfully contributed to all stages of product Software Development Life Cycle through continuous participation in Scrum events and Agile best practices. Implemented projects using Java, Maven, SpringBoot, Bash, RDBMS/SQL, Python, Hadoop, Spark, Docker, Git/GitHub, Kubernetes, Jenkins, and cloud services. Performed both integration and unit testing using JUnit and Mockito. Used a Linux environment (centOS) for development.
+Worked in a small scrum team developing Data Engineering projects. Successfully contributed to all stages of product Software Development Life Cycle through continuous participation in Scrum events and Agile best practices. Implemented projects using Java, Maven, SpringBoot, Bash, RDBMS/SQL, Python, Hadoop, Spark, Docker, Git/GitHub, Kubernetes, Jenkins, and cloud services. Performed both integration and unit testing using JUnit and Mockito. Used a Linux environment (CentOS) for development.
 
 
 ## Education
