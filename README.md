@@ -9,7 +9,7 @@ Software developer with emphasis on Back-End and Data Engineering. Currently a F
 
 **Languages:** Java, SQL, Bash, Git, Go, JavaScript/HTML/CSS, Python, C, Eiffel
 
-**Frameworks:** SpringBoot, Maven, Hadoop, Spark, NiFi, Node/Express/Vue Docer, Kubernetes
+**Frameworks:** SpringBoot, Maven, Hadoop, Spark, NiFi, Node/Express/Vue, Docker, Kubernetes
 
 **Other:** Oracle DB, PostgreSQL, GCP/AWS/Azure, Blockchain
 
@@ -56,7 +56,7 @@ Designed and implemented 1) a Java-like programming language and 2) its two asso
 
 **Gym Platform** [[GitHub](https://github.com/OneHoax/gym_platform)]: 
 
-Developed a fully responsive Single-Page-Webapp that works as a platform to deliver instructional content on physical training and nutrition; it uses vue.js + materialize for the front end and node.js + firebase for the back end (authorization and deployment). It supports registering and logging-in/out.
+Developed a fully responsive Single-Page-Webapp that works as a platform to deliver instructional content on physical training and nutrition; it uses vue.js + materialize for the front end and node.js + firebase for the back end (authorization and deployment). It supports registering and logging in/out.
 
 
 ## Professional Experiences
