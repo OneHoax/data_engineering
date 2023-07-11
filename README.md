@@ -47,39 +47,3 @@ Evaluated Spark's functionality and performance with Zeppelin on Hadoop and re-i
 **Cloud/DevOps** [[GitHub](https://github.com/OneHoax/data_engineering/tree/master/cloud_devops)]: 
 
 Deployed the [SpringBoot App](https://github.com/OneHoax/data_engineering/tree/master/springboot) to the Azure Cloud; used Azure Kubernetes Service to create 2 identical Kubernetes clusters to serve as development and production environments; deployed the application, scaled it out/in as needed, and exposed it to the outside world by using the Kubernetes API; used Azure Container Registry to build/store Docker images for better integration with Azure services; ultimately, automated the integration and deployment process by developing CI/CD pipelines for each of the environments using Jenkins.
-
-
-## Highlighted Projects
-**Language Analyzer** [[GitHub](https://github.com/OneHoax/language_analyzer)]: 
-
-Designed and implemented 1) a Java-like programming language and 2) its two associated functionalities: Java-like code generation and type checking. The project was developed on the Eiffel Testing Framework (ETF) - Eiffel is an object-oriented and contract-based language. Implemented the project with the Visitor Design Pattern because it involves a language structure (classes, attributes, methods, etc.) that is meant to be closed for modification and language operations (code generation and type-checking) which are open for modification - this fulfills the open-close principle which is a requirement to apply the visitor pattern.
-
-**Gym Platform** [[GitHub](https://github.com/OneHoax/gym_platform)]: 
-
-Developed a fully responsive Single-Page-Webapp that works as a platform to deliver instructional content on physical training and nutrition; it uses vue.js + materialize for the front end and node.js + firebase for the back end (authorization and deployment). It supports registering and logging in/out.
-
-
-## Professional Experiences
-
-**Full Stack Developer, CIBC (Jan 2021 – Present):**
-
-Full Stack developer for a background screening application used for onboarding new employees. Part of a small scrum team applying agile best practices through daily stand-up meetings, JIRA boards/tickets, and development based on continuous requirement revision. The application is built on top of a vendor product from NICE Actimize and it involves work with HTML/CSS, XSL, JavaScript, Java (Maven, SpringBoot, Microservices), Oracle DB, NiFi, BASH, Git, Hadoop, and Linux. Lead developer on solutions to mitigate risks identified by the bank regarding retention of large amounts of sensitive data in the application’s DB; responsible for migration from batch feeds to querying from sources on a per-need basis through APIs.
-
-**Data Engineer, Jarvis Consulting Group (Jun 2020 - Jan 2021):**
-
-Worked in a small scrum team developing Data Engineering projects. Successfully contributed to all stages of product Software Development Life Cycle through continuous participation in Scrum events and Agile best practices. Implemented projects using Java, Maven, SpringBoot, Bash, RDBMS/SQL, Python, Hadoop, Spark, Docker, Git/GitHub, Kubernetes, Jenkins, and cloud services. Performed both integration and unit testing using JUnit and Mockito. Used a Linux environment (CentOS) for development.
-
-
-## Education
-**York University (2017-2019)**, Bachelor of Arts, Computer Science
-- Top 15% (2017-2019): Faculty of Electrical Engineering & Computer Science, York University
-- Chair's Honour Roll (2017-2018): Department of Mathematics & Statistics, York University
-- GPA: 7.2/9.0
-
-**George Brown College (2012-2015)**, Advanced Diploma, Behavioral Science Technology
-- Dean's List (2012-2015): George Brown College
-- GPA: 3.6/4.0
-
-
-## Miscellaneous
-- Soccer Player
