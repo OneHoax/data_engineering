@@ -1,18 +1,3 @@
-## Skills
-
-**Concepts:** OOP/FP, RDBMS/NoSQL, Data Access Patterns, OLAP/OLTP, Microservices, REST APIs, Agile, TDD
-
-**Languages:** Java, SQL, Bash, Git, Go, JavaScript/HTML/CSS, Python, C, Eiffel
-
-**Frameworks:** SpringBoot, Maven, Hadoop, Spark, NiFi, Node/Express/Vue, Docker, Kubernetes
-
-**Other:** Oracle DB, PostgreSQL, GCP/AWS/Azure, Blockchain
-
-
-## Projects
-
-Project source code: [https://github.com/OneHoax/data_engineering](https://github.com/OneHoax/data_engineering)
-
 **Cluster Monitor** [[GitHub](https://github.com/OneHoax/data_engineering/tree/master/linux_sql)]: 
 
 Developed a monitoring agent to keep track of a cluster's resources and usage across time; this provided the team invaluable information about decisions to scale the cluster (and each node in it) up or down. The project was implemented with Bash, PostgreSQL, and Docker.
