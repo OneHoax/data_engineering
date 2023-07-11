@@ -1,8 +1,3 @@
-# Andres Osorio
-
-Software developer with emphasis on Back-End and Data Engineering. Currently a Full Stack developer working in the banking industry. I have a Background in Behaviour Analysis and experience in a wide variety of environments that have provided me with the right combination of professional and personal skills. The amount of data being created every year is growing at an exponential rate and will continue to do so; Data Engineering resonates with me because there is a need for qualified individuals to make sense of it all and I love both engineering and the patterns that arise from data. I am responsible, reliable, organized, disciplined, hard-working, goal-oriented, and always eager to learn.
-
-
 ## Skills
 
 **Concepts:** OOP/FP, RDBMS/NoSQL, Data Access Patterns, OLAP/OLTP, Microservices, REST APIs, Agile, TDD
@@ -14,7 +9,7 @@ Software developer with emphasis on Back-End and Data Engineering. Currently a F
 **Other:** Oracle DB, PostgreSQL, GCP/AWS/Azure, Blockchain
 
 
-## Jarvis Projects
+## Projects
 
 Project source code: [https://github.com/OneHoax/data_engineering](https://github.com/OneHoax/data_engineering)
 
